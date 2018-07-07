@@ -1,2 +1,1 @@
-# sungbin-lunch.club
-ソンビンランチ
+# Hello VuePress
